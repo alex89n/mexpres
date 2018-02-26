@@ -1,0 +1,88 @@
+/*!
+ * Start Bootstrap - Portfolio Item (https://startbootstrap.com/template-overviews/portfolio-item)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.odmakni-25 {
+    margin-top: 40px !important;
+}
+
+.odmakni-85 {
+    margin-top: 85px !important;
+}
+
+.poravnaj p{
+    margin-top: 15px !important;
+    text-align: justify !important;
+}
+
+.primakni {
+    margin-top: -15px !important;
+}
+
+/* .primakni a{
+    color:#636363!important;
+} */
+
+.hov a:hover{
+    color:#fd0000 !important;
+}
+
+.text-red {
+    color: #fd0000 !important;
+}
+
+.nav1 a:hover {	
+	color:#fd0000 !important;
+}
+
+.nav1 a:selected {
+    color:#fd0000 !important;
+}    
+
+#imagelist{
+    /* width: 400px; */
+    width: 50%; 
+    height: 50%; 
+    position: ; 
+    /* background:orange; */
+}
+
+#imagelist a{
+    margin: 1px;
+    border: 2px solid transparent;
+    display: inline-block; 
+}
+
+#imagelist a:hover{
+    border-color: black;
+}
+
+.line{
+    background:url(../images/black_line.png) no-repeat center 0px;
+}
+/*
+ul{
+    list-style: none; 
+    padding: 0;
+    margin: 5;
+}
+li { 
+    padding-left: 16px; 
+}
+li:before {
+    content: "-"; 
+    padding-right: 8px;
+    font-weight: bold;
+}*/
